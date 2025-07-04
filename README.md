@@ -2,6 +2,15 @@
 
 Welcome to **MediShare**, an innovative platform designed to transform healthcare by integrating blockchain technology, generative AI, and real-time communication. Our mission is to enhance patient care, ensure medication authenticity, and foster a collaborative health community.
 
+![image](https://github.com/user-attachments/assets/d9d28ee2-257c-4866-9199-5d1ce24ae219)
+![Screenshot 2025-07-04 160946](https://github.com/user-attachments/assets/cf752938-2b5c-4510-a4f2-dc8a7e806bd5)
+![image](https://github.com/user-attachments/assets/86c7f217-12c3-485e-a79a-eae2506a6d9b)
+![image](https://github.com/user-attachments/assets/ec607850-cc3f-4292-a72b-d4e5ab493977)
+![image](https://github.com/user-attachments/assets/4eda150e-d7e6-4d00-87c7-a33dfc92dd35)
+![image](https://github.com/user-attachments/assets/bde18ccd-40c0-4f6d-b819-fd52ee7b7b6d)
+![image (4)](https://github.com/user-attachments/assets/619aa3d1-e1fe-47fe-8b2c-6a64e3b73a6f)
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
